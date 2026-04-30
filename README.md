@@ -33,8 +33,8 @@ I am a software engineer with experience in Python scripting, testing, Bash scri
 
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=adiKhan12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiKhan12&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mdrifathossain1999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifathossain1999&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adiKhan12&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="adiKhan12" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrifathossain1999&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="adiKhan12" /></p>
